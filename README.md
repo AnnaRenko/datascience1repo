@@ -1,2 +1,2 @@
 # datascience1repo
-first repository - connecting GitHub and RStudio 
+first repository - learning to connect GitHub and RStudio 
